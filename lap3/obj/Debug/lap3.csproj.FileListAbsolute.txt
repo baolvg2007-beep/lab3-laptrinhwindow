@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\LTWIN\lap3\bin\Debug\lap3.exe.config
+C:\Users\ASUS\source\repos\LTWIN\lap3\bin\Debug\lap3.exe
+C:\Users\ASUS\source\repos\LTWIN\lap3\bin\Debug\lap3.pdb
+C:\Users\ASUS\source\repos\LTWIN\lap3\obj\Debug\lap3.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\LTWIN\lap3\obj\Debug\lap3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\LTWIN\lap3\obj\Debug\lap3.exe
+C:\Users\ASUS\source\repos\LTWIN\lap3\obj\Debug\lap3.pdb
